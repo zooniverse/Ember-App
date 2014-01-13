@@ -8,10 +8,10 @@
     "stage": "haw build && publisssh build demo.zooniverse.org/ember-app && rm -rf build"
   },
   "dependencies": {
-    "haw": "~0.2.15",
-    "zooniverse": "0.3.8",
+    "haw": "~0.2.17",
+    "zooniverse": "0.3.11",
     "publisssh": "~0.2.3",
-    "webmake-ember-handlebars": "~0.1.3",
+    "webmake-ember-handlebars": "~0.1.4",
     "webmake-coffee": "~0.1.3",
     "t7e": "~0.2.3"
   }
